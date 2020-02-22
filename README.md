@@ -1,1 +1,3 @@
 # Adaptive-Code-Refinement-Simple-Implementation
+
+In this research, an adaptive capability is provided to compute-intensive codes. Heavy computations are carried out only when it is necessary. Thereby, increasing the performance of the pre-existing code and provides with an efficient and refined result of the code. The adaptive capabilities of the codes are carried out using the State Grid model. Programmers provide special pragmas to the code that helps regenerate a code at runtime that performs complex computations only where it is necessary. By doing so, the computational complexity as well as time complexity are reduced by significant amount. The paper also aims at  incorporating the parallelization technique in compilation of code.
